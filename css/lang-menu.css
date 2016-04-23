@@ -3,7 +3,6 @@
 	float: right;
 	position: relative;
 	top: 79px;
-	margin-right: 10px;
 }
 
 code.text-badge {
@@ -31,7 +30,6 @@ code.text-badge {
 	float: left;
 	height: 29px;
 	padding-right: 2px;
-	margin-right: 10px;
 	margin-top: 0pt;
 	margin-bottom: 0pt;
 	position: relative;

@@ -8,7 +8,7 @@ body {
 	background: transparent url('../images/bg-upper.gif') repeat scroll 0 0;
 	height: 118px;
 	margin: 0 auto;
-	min-width: 780px;
+	min-width: 894px;
 	width: 90%;
 }
 
@@ -26,7 +26,7 @@ body {
 	margin: 0;
 	margin: 0px auto;
 	min-height: 1080px;
-	min-width: 780px;
+	min-width: 894px;
 	position: relative;
 	width: 90%;
 }
