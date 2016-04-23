@@ -1,7 +1,7 @@
 <div id="lang-wrapper">
-    <div id="drop-down">
+    <div>
         <ul id="langmenu">
-            <li><a href=""><img src="/images/lang-icon.png" width="16" height="16" alt="Language">&nbsp;&nbsp;Language</a>
+            <li><span><img src="/images/lang-icon.png" width="16" height="16" alt="Language">&nbsp;&nbsp;Language</span>
                 <ul>
                     <li><a href="{$pageurl}?lang=en"><code class="text-badge">EN</code>English</a></li>
                     <li><a href="{$pageurl}?lang=de"><code class="text-badge">DE</code>Deutsch</a></li>
